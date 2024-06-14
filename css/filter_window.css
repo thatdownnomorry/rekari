@@ -7,3 +7,20 @@ details.Video-Filter{
   display: flex;
   flex-direction: column;
 }
+.Reset-Button{
+      background: linear-gradient(180deg,#f2f2f2 45%,#ebebeb 0,#cfcfcf);
+    border: 1px solid #8e8f8f;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 1px #fffc;
+    box-sizing: border-box;
+    color: #222;
+    font: 9pt Segoe UI,SegoeUI,Noto Sans,sans-serif;
+    min-height: 23px;
+    min-width: 75px;
+    padding: 0 12px;
+    position: relative;
+    text-align: center;
+    z-index: 0;
+    border-color: #8e8f8f;
+    transition: border-color 1s linear;
+}

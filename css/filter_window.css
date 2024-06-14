@@ -24,3 +24,11 @@ details.Video-Filter{
     border-color: #8e8f8f;
     transition: border-color 1s linear;
 }
+.Reset-Button:hover{
+    border-color: #3c7fb1;
+    transition: border-color .3s;
+}
+.Reset-Button:active{
+    border-color: #6d91ab;
+    transition: border-color .3s;
+}

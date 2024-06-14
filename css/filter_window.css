@@ -1,4 +1,8 @@
+.Video-Filter{
+  font-size: 13px;
+}
 .Video-Color-Filter{
-display: flex;
-flex-direction: column;
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
 }

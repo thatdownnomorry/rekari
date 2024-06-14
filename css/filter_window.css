@@ -7,7 +7,7 @@ details.Video-Filter{
   display: flex;
   flex-direction: column;
 }
-.Reset-Button{
+button.Reset-Button{
       background: linear-gradient(180deg,#f2f2f2 45%,#ebebeb 0,#cfcfcf);
     border: 1px solid #8e8f8f;
     border-radius: 3px;
@@ -24,11 +24,11 @@ details.Video-Filter{
     border-color: #8e8f8f;
     transition: border-color 1s linear;
 }
-.Reset-Button:hover{
+button.Reset-Button:hover{
     border-color: #3c7fb1;
     transition: border-color .3s;
 }
-.Reset-Button:active{
+button.Reset-Button:active{
     border-color: #6d91ab;
     transition: border-color .3s;
 }

@@ -8,5 +8,5 @@ details.Video-Filter{
   flex-direction: column;
 }
 input{
-    width: 150px;
+    width: 150px !important;
 }

@@ -8,11 +8,11 @@
   flex-direction: column;
 }
 .Comment-Filter{
+  margin-top: 5px;
   font-size: 13px;
   border: solid 2px gray;
 }
 .Comment-Color-Filter{
-  margin-top: 5px;
   margin-left: 15px;
   display: flex;
   flex-direction: column;

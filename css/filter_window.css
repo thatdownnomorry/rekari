@@ -1,4 +1,4 @@
-.Video-Filter, .Comment-Filter{
+.Video-Filter{
   font-size: 13px;
   border: solid 2px gray;
 }
@@ -6,6 +6,10 @@
   margin-left: 15px;
   display: flex;
   flex-direction: column;
+}
+.Comment-Filter{
+  font-size: 13px;
+  border: solid 2px gray;
 }
 input{
     width: 150px !important;

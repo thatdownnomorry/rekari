@@ -20,6 +20,9 @@
 .Reset-Button{
   height: 28px;
 }
+Details-Title{
+  pointer-events: none;
+}
 input{
     width: 150px !important;
 }

@@ -17,6 +17,9 @@
   display: flex;
   flex-direction: column;
 }
+.Reset-Button{
+  height: 28px;
+}
 input{
     width: 150px !important;
 }

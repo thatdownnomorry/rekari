@@ -23,6 +23,6 @@
 .Details-Title{
   pointer-events: fill;
 }
-input{
-    width: 150px !important;
+.Checkbox{
+  width: 150px !important;
 }

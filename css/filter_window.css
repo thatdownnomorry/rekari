@@ -2,7 +2,7 @@
   font-size: 13px;
   border: solid 2px gray;
 }
-.Video-Color-Filter{
+.Video-Color-Filter, .Video-Overlay-Filter{
   margin-left: 15px;
   display: flex;
   flex-direction: column;
@@ -12,7 +12,7 @@
   font-size: 13px;
   border: solid 2px gray;
 }
-.Comment-Color-Filter{
+.Comment-Color-Filter, .Comment-Overlay-Filter{
   margin-left: 15px;
   display: flex;
   flex-direction: column;

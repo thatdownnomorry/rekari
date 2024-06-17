@@ -21,7 +21,7 @@
   height: 28px;
 }
 .Details-Title{
-  pointer-events: stroke;
+  pointer-events: fill;
 }
 input{
     width: 150px !important;
